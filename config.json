@@ -1,6 +1,6 @@
 {
 	"ip":"Nature.ploudos.com",
-	"port": 12418,
+	"port": "12418",
 	"name": "PIZZA",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
