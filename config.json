@@ -1,0 +1,9 @@
+{
+	"ip":"Nature.ploudos.com",
+	"port": 12418,
+	"name": "Bem Vindo a PIZZA",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register Bot123Pizza Bot123Pizza",
+	"login-cmd":"/login Bot123Pizza"
+}
